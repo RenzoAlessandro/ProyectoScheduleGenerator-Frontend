@@ -1,0 +1,47 @@
+{
+  "authentication": "Autenticación",
+  "dashboard": "Tablero",
+  "typography": "Tipografía",
+  "color": "Color",
+  "sample-page": "Página de ejemplo",
+  "login": "Iniciar sesión",
+  "register": "Registro",
+  "pages": "Páginas",
+  "utils": "Utilidades",
+  "others": "Otros",
+
+  "Settings": "Configuración",
+  "theme-mode": "Modo de Tema",
+  "Choose-light-or-dark-mode": "Elija el modo claro u oscuro",
+  "light": "Claro",
+  "dark": "Oscuro",
+  "auto": "Auto",
+
+  "custom-theme": "Tema personalizado",
+  "choose-your-primary-theme-color": "Elige el color de tu tema principal",
+  "default":"default",
+  "theme1": "tema 1",
+  "theme2": "tema 2",
+  "theme3": "tema 3",
+  "theme4": "tema 4",
+  "theme5": "tema 5",
+  "theme6": "tema 6",
+  "theme7": "tema 7",
+
+  "layout-width": "Ancho del diseño",
+  "fluid-or-container-layout": "Disposición de fluido o contenedor",
+  "fluid": "Fluido",
+  "container": "Contenedor",
+
+  "file-management": "Gestión de Archivos",
+  "study-plan": "Plan de Estudio",
+  "teaching-staff":"Plana Docente",
+  "infrastructure": "Infrastructura",
+
+  "schedule-planning": "Programación de Horarios",
+  "teaching-units": "Unidades Didácticas",
+  "class-sessions": "Sesiónes Académicas",
+  "calendar": "Calendario",
+
+  "academic-information": "Información Académica"
+}

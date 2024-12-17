@@ -1,0 +1,47 @@
+{
+  "authentication": "Authentication",
+  "dashboard": "Dashboard",
+  "typography": "Typography",
+  "color": "Color",
+  "sample-page": "Sample Page",
+  "login": "Login",
+  "register": "Register",
+  "pages": "Pages",
+  "utils": "Utils",
+  "others": "Others",
+
+  "Settings": "Settings",
+  "theme-mode": "Theme Mode",
+  "Choose-light-or-dark-mode": "Choose light or dark mode",
+  "light": "Light",
+  "dark": "Dark",
+  "auto": "Auto",
+
+  "custom-theme": "Custom Theme",
+  "choose-your-primary-theme-color": "Choose your primary theme color",
+  "default":"default",
+  "theme1": "theme 1",
+  "theme2": "theme 2",
+  "theme3": "theme 3",
+  "theme4": "theme 4",
+  "theme5": "theme 5",
+  "theme6": "theme 6",
+  "theme7": "theme 7",
+
+  "layout-width": "Layout Width",
+  "fluid-or-container-layout": "fluid or container layout",
+  "fluid": "Fluid",
+  "container": "Container",
+
+  "file-management": "File Management",
+  "study-plan": "Study Plan",
+  "teaching-staff": "Teaching Staff",
+  "infrastructure": "Infrastructure",
+
+  "schedule-planning": "Schedule Planning",
+  "teaching-units": "Teaching Units",
+  "class-sessions": "Class Sessions",
+  "calendar": "Calendar",
+
+  "academic-information": "Academic Information"
+}
